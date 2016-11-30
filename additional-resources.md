@@ -1,4 +1,4 @@
-# Additional Resources
+# Additional Resources II
 
 While creating the initial knowledge objects, we gathered a list of applications that could be helpful for current and future knowledge object authors. These applications are applicable for those who are unsure where to start, or are looking for a more efficient, alternative way to create knowledge objects.
 
