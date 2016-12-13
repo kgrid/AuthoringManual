@@ -18,3 +18,5 @@ Next, upload the algorithm to ObjectTeller by creating a new Knowledge Object. F
 
 After the knowledge object is created and the algorithm is uploaded to the payload, use an execution stack to run the algorithm.
 
+For information on how to execute the knowledge object, see ...
+
