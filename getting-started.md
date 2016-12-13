@@ -14,7 +14,7 @@ def stringConcatenator(listOfStrings):
     print (concatSentence)
 ```
 
-Next, upload the algorithm to ObjectTeller by creating a new Knowledge Object. For more information about how to create a new Knowledge Object go to the Creating Knowledge Objects section.
+Next, upload the algorithm to ObjectTeller by creating a new Knowledge Object. For more information about how to create a new Knowledge Object see [Creating Knowledge Objects](https://kgrid.gitbooks.io/authoring-ii/content/creating_knowledge_objects.html).
 
 After the knowledge object is created and the algorithm is uploaded to the payload, use an execution stack to run the algorithm.
 
