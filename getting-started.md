@@ -1,6 +1,6 @@
 # Getting Started
 
-*Add information about the bare minimum input needed to create a basic knowledge object, from developers perspective.*
+_Add information about the bare minimum input needed to create a basic knowledge object, from developers perspective._
 
 In this section, we will walk through the basic necessities to create a knowledge object within the knowledge grid. The completed knowledge object can be found here: [http://dlhs-fedora-dev-a.umms.med.umich.edu:8080/ObjectTeller/object/ark:/99999/fk4fj2qx12](http://dlhs-fedora-dev-a.umms.med.umich.edu:8080/ObjectTeller/object/ark:/99999/fk4fj2qx12)
 
@@ -14,6 +14,7 @@ def stringConcatenator(listOfStrings):
     print (concatSentence)
 ```
 
-Next, upload the algorithm to ObjectTeller by creating a new Knowledge Object. For more information about how to create a new Knowledge Object go here: __screencast/screenshots if managing knowledge objects__.
+Next, upload the algorithm to ObjectTeller by creating a new Knowledge Object. For more information about how to create a new Knowledge Object go to the Creating Knowledge Objects section.
 
 After the knowledge object is created and the algorithm is uploaded to the payload, use an execution stack to run the algorithm.
+
