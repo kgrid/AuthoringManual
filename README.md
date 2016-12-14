@@ -14,3 +14,7 @@ This documentation is being maintained on GitBook. The GitBook documentation ver
 
 Additional questions beyond the information given can be directed to: dlhs.knowledge.grid@umich.edu.
 
+
+
+Copyright © University of Michigan, Department of Learning Health Sciences
+
