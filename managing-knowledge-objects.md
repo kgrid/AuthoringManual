@@ -1,3 +1,4 @@
 # Managing Knowledge Objects
 
-Librarians perspective, include videos/screenshots. Can reference videos/screenshots within authoring KOs
+In this section we will discuss the management aspects of KO. Here, information can be found on Creating and Editing KO.
+
