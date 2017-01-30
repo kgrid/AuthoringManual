@@ -5,7 +5,7 @@
 To ensure scripts are working properly, include a test function. Include enough tests to make sure the object consistently produces correct outputs; we recommend at least 6. The test function should be automated and include correct outputs for each test input. It should work in such a way that it can easily be called when needed to check if the object behaves properly.  
 When initially developing, we predominantly used two ways to develop the test function: multiple if/else statements or an assert function. The if/else statements may be more intuitive for novice programmers.
 
-An example of a test function using if/else is shown below using the TotalPrescription function.
+An example of a test function using if/else:
 
 ```
 def test():
@@ -27,22 +27,21 @@ An example of assert function:
 
 ```
 def test_function():
-	test_inputs = [
-			{"DrugIds":""},
-			{"DrugIds":"101 204 708 406 190"}
-			{"DrugIds":"101 204 708"}
-				
-	correctOutputs =	[0,5,3]
-	correctOutputIndex = 0
+    test_inputs = [
+            {"DrugIds":""},
+            {"DrugIds":"101 204 708 406 190"}
+            {"DrugIds":"101 204 708"}
 
-	for test_in in test_inputs:
-		result = TotalPrescriptions(test_in)
-		print 'result: {}'.format(result)
-		print 'correct: {}'.format(correctOutputs[correctOutputIndex])
-		assert (result > (correctOutputs[correctOutputIndex]- 0.001) and result < (correctOutputs[correctOutputIndex] + 0.001))
-		correctOutputIndex += 1
+    correctOutputs =    [0,5,3]
+    correctOutputIndex = 0
 
+    for test_in in test_inputs:
+        result = TotalPrescriptions(test_in)
+        print 'result: {}'.format(result)
+        print 'correct: {}'.format(correctOutputs[correctOutputIndex])
+        assert (result > (correctOutputs[correctOutputIndex]- 0.001) and result < (correctOutputs[correctOutputIndex] + 0.001))
+        correctOutputIndex += 1
 ```
 
-
+Currently, the test functions cannot be directly ran from the Object Teller. However, we are in the process of identifying the best way to incorporate testing into our Knowledge Grid model. 
 
