@@ -1,10 +1,8 @@
 # Interacting Knowledge Objects
 
-What if you have two separate knowledge objects that operate individually but share information? This is something the KGrid team continues to ponder, with no definite answer. As of now, we have created a couple interacting knowledge objects that operate differently. 
+What if you have two separate knowledge objects that operate individually but share information? This is something the KGrid team continues to ponder, with no definite answer. As of now, we have created a couple interacting knowledge objects that operate differently.
 
-
-
-For example, the Neck Disability Index consists of 2 separate KO: a resource and a result. The resource is an HTML survey that sends the answers to the result knowledge object who interprets the answers and returns the interpretation. 
+For example, the Neck Disability Index consists of 2 separate KO: a resource and a result. The resource is an HTML survey that sends the answers to the result knowledge object who interprets the answers and returns the interpretation.
 
 The resource payload is as follow:
 
@@ -13,7 +11,7 @@ The resource payload is as follow:
 <head>
     <title> Neck Disability Index </title>
     <script type="text/javascript"
-	src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+    src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
 </head>
 <script>
 $(document).ready(function(){
@@ -155,6 +153,70 @@ $(document).ready(function(){
     </form>
 </body>
 </html>
+```
+
+And the result payload is as follows:
+
+```
+# Takes in an NDI response, JSON formatted
+# ex. {"pain_intensity":"moderate","gender":"male"}
+def total_score(responses):
+    pain_intensity = responses["pain_intensity"]
+    personal_care = responses["personal_care"]
+    lifting = responses["lifting"]
+    reading = responses["reading"]
+    headaches = responses["headaches"]
+    concentration = responses["concentration"]
+    work = responses["work"]
+    driving = responses["driving"]
+    sleeping = responses["sleeping"]
+    recreation = responses["recreation"]
+
+    score = 0
+
+    for question in responses.keys():
+        #print question
+        answer = responses[question]
+        #print answer
+        if answer == "none":
+            score += 0
+        elif answer == "mild":
+            score += 1
+        elif answer == "moderate":
+            score += 2
+        elif answer == "fairly_severe":
+            score += 3
+        elif answer == "severe":
+            score += 4
+        elif answer == "complete":
+            score += 5
+        else:
+            #print "Unexpected answer, cannot calculate. Score = 0 for this question."
+            score += 0
+    relative_impairment = score_result(score)
+    #print relative_impairment
+    return relative_impairment
+
+def score_result(score):
+    relative_impairment = ""
+
+    if (score >= 0 and score < 5):
+        relative_impairment = "none"
+
+    if (score >=5 and score < 15):
+        relative_impairment = "mild"
+
+    if (score >=15 and score <25):
+        relative_impairment = "moderate"
+
+    if (score >= 25 and score <35):
+        relative_impairment = "severe"
+
+    if (score >= 35):
+        relative_impairment = "complete"
+
+    print relative_impairment
+    return relative_impairment
 
 ```
 
