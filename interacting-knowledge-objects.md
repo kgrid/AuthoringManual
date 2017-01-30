@@ -2,7 +2,7 @@
 
 What if you have two separate knowledge objects that operate individually but share information? This is something the KGrid team continues to ponder, with no definite answer. As of now, we have created a couple interacting knowledge objects that operate differently.
 
-For example, the Neck Disability Index consists of 2 separate KO: a resource and a result. The resource is an HTML survey that sends the answers to the result knowledge object who interprets the answers and returns the interpretation.
+For example, the Neck Disability Index consists of 2 separate KO: a resource \(ark:/99999/fk4vh5t309\) and a result \(ark:/99999/fk4vh5t309\). The resource is an HTML survey that sends the JSON-formatted answers to the result knowledge object who interprets the answers and returns the interpretation.
 
 The resource payload is as follow:
 
@@ -217,8 +217,9 @@ def score_result(score):
 
     print relative_impairment
     return relative_impairment
-
 ```
 
+The result knowledge object can be ran using the execution stack. For the knowledge objects interaction,  it can only be run locally, by opening the resource survey in your browser.
 
+As mentioned above, we continue collaborating towards a definition and guideline of knowledge interactions, and will update this manual when further information is available.
 
