@@ -8,7 +8,7 @@ This Knowledge Objects Authoring & Managing Manual provides users with a set of 
 
 In the [Getting Started](http://kgrid.org/AuthoringManual/getting-started) section, we will walk through a basic example of creating a knowledge object. All pages can be found <a href="/summary/"> here. 
 
-For information on how to execute knowledge objects on the execution stack, see the [Execution Manual](https://www.gitbook.com/book/kgrid/execution-manual/details).
+For information on how to execute knowledge objects on the execution stack, see the [Execution Manual](kgrid.org/ExecutionManual/).
 
 This documentation is being maintained on GitBook. The GitBook documentation version can be accessed at: [https://www.gitbook.com/book/kgrid/authoring-ii/details](https://www.gitbook.com/book/kgrid/authoring-ii/details).
 
