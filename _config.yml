@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+
+sidebars:
+- getting-started_sidebar
+- test_functions_sidebar
