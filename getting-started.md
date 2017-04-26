@@ -1,6 +1,6 @@
 # Getting Started
 
-In this section, we will walk through the basic necessities to create a knowledge object within the knowledge grid. The completed knowledge object can be found here: [http://dlhs-fedora-dev-a.umms.med.umich.edu:8080/ObjectTeller/object/ark:/99999/fk4fj2qx12](http://dlhs-fedora-dev-a.umms.med.umich.edu:8080/ObjectTeller/object/ark:/99999/fk4fj2qx12)
+In this section, we will walk through the basic necessities to create a knowledge object within the knowledge grid. The completed knowledge object can be found [here] (http://dlhs-fedora-dev-a.umms.med.umich.edu:8080/ObjectTeller/#/object/ark:%2F99999%2Ffk4fj2qx12).
 
 First, create an algorithm. Currently, our execution stack requires python. Here we are using python 2.7. The code below takes in a list of strings and outputs the concatenation of the strings. Inputs for knowledge object must be JSON formatted, so the input will be formatted as follows: {"words":\["word1","word2"\]}. 
 
