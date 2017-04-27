@@ -55,6 +55,6 @@ OUTPUT RDF
 4. Create Metadata
 Next, we need to designate the necessary metadata to promote corroboration. Metadata can be added at the KGrid Library or thorugh a separate metadata XML file. For this example, we will manually add the metadata.
 
-Go to the KGrid library and create a new knowledge object by clicking on the green plus on the right side of the webpage. Add a title, save and close, click on the corresponding title, and edit content. Upload the payload, designate the payload function name \(stringConcatenator\) and payload type \(python\). Upload the input and output RDF>
+Go to the KGrid library and create a new knowledge object by clicking on the green plus on the right side of the webpage. Add a title, save and close, click on the corresponding title, and edit content. Upload the payload, designate the payload function name \(stringConcatenator\) and payload type \(python\). Upload the input and output RDF.
 Click save. The knowledge object is now created! You can now use the public activator to activate the knowledge object.
 
