@@ -219,7 +219,7 @@ def score_result(score):
     return relative_impairment
 ```
 
-The result knowledge object can be ran using the execution stack. For the knowledge objects interaction,  it can only be run locally, by opening the resource survey in your browser.
+The result knowledge object can be ran using the activator. For the knowledge objects interaction,  it can only be run locally, by opening the resource survey in your browser.
 
 As mentioned above, we continue collaborating towards a definition and guideline of knowledge interactions, and will update this manual when further information is available.
 
