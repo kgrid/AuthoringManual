@@ -2,7 +2,7 @@
 
 In this section, we will walk through the basic necessities to create a knowledge object (KO) within knowledge grid (KGrid). To create a knowledge object, there are 4 required components: metadata, payload, input RDF and output RDF. 
 
-The String Concatenator KO ({{baseUrl}}/shelf/ark:/99999/fk4fj2qx12) at the KGrid Library takes in a list of strings, and outputs a concatenated output. To demonstrate the authoring process, let's recreate this knowledge object (KO).
+The String Concatenator KO (baseUrl/shelf/ark:/99999/fk4fj2qx12) at the KGrid Library takes in a list of strings, and outputs a concatenated output. To demonstrate the authoring process, let's recreate this knowledge object (KO).
 
 1. Create Payload File
     To begin, we need to create the payload file. Below is the python function, stringConcatenator() used in the KO, that takes in a list of strings and outputs the concatenation of the strings. Save this code to a python file.
