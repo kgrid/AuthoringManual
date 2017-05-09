@@ -1,1 +1,5 @@
-theme: jekyll-theme-cayman
+title: KGrid Authoring Manual
+
+
+#theme: jekyll-theme-cayman
+theme: minima
