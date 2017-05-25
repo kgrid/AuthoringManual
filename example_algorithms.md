@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Creating Algorithm
+level: 1
 permalink: /example_algorithms/
 ---
 ## Guidelines and examples for creating algorithm\(s\) for the new Knowledge Object

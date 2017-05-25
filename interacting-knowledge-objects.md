@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Interacting Knowledge Objects
+level: 1
 permalink: /interacting_knowledge_objects/
 ---
 # Interacting Knowledge Objects

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Authoring Checklist
+level: 1
 permalink: /checklist/
 ---
 # Checklist and Summary of Steps to Create Knowledge Objects

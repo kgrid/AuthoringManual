@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Creating Knowledge Objects
+level: 1
 permalink: /creating_knowledge_objects/
 ---
 ## Creating New Knowledge Object

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Editing Knowledge Objects
+level: 1
 permalink: /editing_knowledge_objects/
 ---
 ## Editing Knowledge Objects
