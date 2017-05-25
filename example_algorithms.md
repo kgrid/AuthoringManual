@@ -1,3 +1,8 @@
+---
+layout: page
+title: Creating Algorithm
+permalink: /eg_algorithms/
+---
 ## Guidelines and examples for creating algorithm\(s\) for the new Knowledge Object
 
 Prior to creating the algorithm, there is some important aspects of the KGrid platform that need to be considered. Specifically, the KGrid public activator works with python objects.
@@ -34,4 +39,3 @@ There is no limitations on the number of input parameters possible, but there ca
 ### Payload
 
 Currently, the KGrid library can only take one payload and only one function can be called per knowledge object.
-

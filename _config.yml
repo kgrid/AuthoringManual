@@ -1,4 +1,32 @@
 title: KGrid Authoring Manual
+author: KGrid Development Team
+email: kgrid-developers@umich.edu
+description: > # this means to ignore newlines until "baseurl:"
+  Knowledge Grid is powered by Fedora 4 and supported by University of Michigan Medical School
+
+#twitter_username: jekyllrb
+github_username:  kgrid-um-team
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+header_pages:
+  - authoring-KO.md
+  - getting-started.md
+  - checklist.md
+  - example_algorithms.md
+  - test_functions.md
+  - inputoutput_rdf.md
+  - readme_files.md
+  - interacting-knowledge-objects.md
+  - managing-knowledge-objects.md
+  - creating_knowledge_objects.md
+  - editing_knowledge_objects.md
+  - additional-resources.md
 
 
 #theme: jekyll-theme-cayman

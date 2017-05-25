@@ -1,3 +1,8 @@
+---
+layout: page
+title: Additional Resources
+permalink: /addtl_rsc/
+---
 # Additional Resources II
 
 While creating the initial knowledge objects, we gathered a list of applications that could be helpful for current and future knowledge object authors. These applications are applicable for those who are unsure where to start, or are looking for a more efficient, alternative way to create knowledge objects.
@@ -9,6 +14,3 @@ While creating the initial knowledge objects, we gathered a list of applications
 
 * Sublime Text \(www.sublimetext.com\)
     A text editor with built in packages to run code. Can also create custom build tools
-
-
-

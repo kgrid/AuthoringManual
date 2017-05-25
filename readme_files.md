@@ -1,3 +1,9 @@
+---
+layout: page
+title: README Files
+permalink: /readme_files/
+---
+
 # README Files
 
 We advise including a README file with your knowledge objects for others to reference. This will make it easier to communication the functionalities of your KO with others.
@@ -79,6 +85,3 @@ Created date
   - Citations
   - Access information
 ```
-
-
-

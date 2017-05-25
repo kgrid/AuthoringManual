@@ -1,3 +1,9 @@
+---
+layout: page
+title: Test Functions
+permalink: /test_functions/
+---
+
 # Test Functions
 
 ## Write unit test\(s\) for algorithm\(s\) as test function\(s\)
@@ -43,5 +49,4 @@ def test_function():
         correctOutputIndex += 1
 ```
 
-Currently, the test functions cannot be directly ran from the Object Teller. However, we are in the process of identifying the best way to incorporate testing into our Knowledge Grid model. 
-
+Currently, the test functions cannot be directly ran from the Object Teller. However, we are in the process of identifying the best way to incorporate testing into our Knowledge Grid model.

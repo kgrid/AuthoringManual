@@ -1,3 +1,8 @@
+---
+layout: page
+title: Authoring Checklist
+permalink: /checklist/
+---
 # Checklist and Summary of Steps to Create Knowledge Objects
 
 1. Create algorithm\(s\) for the new Knowledge Object.
@@ -7,6 +12,3 @@
 5. Add the items created in steps 1 and 3 to the KO being created.
 6. Add metadata for the KO, inlcuding one or more published papers, if relevant, and also keywords, owners, contributors, license, etc.
 7. Create a README file for the KO.
-
-
-

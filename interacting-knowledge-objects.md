@@ -1,3 +1,8 @@
+---
+layout: page
+title: Interacting with Knowledge Objects
+permalink: /interacting_kos/
+---
 # Interacting Knowledge Objects
 
 What if you have two separate knowledge objects that operate individually but share information? This is something the KGrid team continues to ponder, with no definite answer. As of now, we have created a couple interacting knowledge objects that operate differently.
@@ -222,4 +227,3 @@ def score_result(score):
 The result knowledge object can be ran using the activator. For the knowledge objects interaction,  it can only be run locally, by opening the resource survey in your browser.
 
 As mentioned above, we continue collaborating towards a definition and guideline of knowledge interactions, and will update this manual when further information is available.
-
