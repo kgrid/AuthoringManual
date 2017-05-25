@@ -38,7 +38,7 @@
 body {
 	color:#555555;
 	background: #fff;
-	font-size: 13px;
+	font-size: 14px;
 	line-height: 1.6em;
 	font-weight: 400;
 	text-shadow: none;
@@ -105,5 +105,9 @@ a:hover {
 background-color: #f5f5f5;
 }
 .site-nav .trigger li {
+  font-size:13px;
   list-style: none;
+}
+.trigger ul {
+  margin-left: 10px;
 }
