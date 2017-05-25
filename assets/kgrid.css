@@ -95,7 +95,7 @@ a:hover {
       background-position-y: 8px;
 }
 .site-nav {
-  /*position: relative;*/
+  line-height: 2.6em;
 }
 .site-nav .trigger {
   position: absolute;
