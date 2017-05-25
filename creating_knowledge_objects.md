@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Creating Knowledge Objects
-permalink: /creating_kos/
+permalink: /creating_knowledge_objects/
 ---
 ## Creating New Knowledge Object
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Managing Knowledge Objects
-permalink: /managing_kos/
+permalink: /managing-knowledge-objects/
 ---
 # Managing Knowledge Objects
 

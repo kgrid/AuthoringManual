@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Interacting with Knowledge Objects
-permalink: /interacting_kos/
+permalink: /interacting_knowledge_objects/
 ---
 # Interacting Knowledge Objects
 

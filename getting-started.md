@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Get Started
-permalink: /get_started/
+permalink: /getting-started/
 ---
 # Getting Started
 

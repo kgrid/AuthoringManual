@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Additional Resources
-permalink: /addtl_rsc/
+permalink: /additional_resources/
 ---
 # Additional Resources II
 

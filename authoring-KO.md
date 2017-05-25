@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Authoring Knowledge Objects
-permalink: /authoring_KO/
+permalink: /authoring-KO/
 ---
 # Authoring Knowledge Objects
 

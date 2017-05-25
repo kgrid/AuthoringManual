@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Editing Knowledge Objects
-permalink: /editing_kos/
+permalink: /editing_knowledge_objects/
 ---
 ## Editing Knowledge Objects
 

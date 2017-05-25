@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Input/Output RDF
-permalink: /io_rdf/
+permalink: /inputoutput_rdf/
 ---
 # Input/Output Rdf
 

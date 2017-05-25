@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Creating Algorithm
-permalink: /eg_algorithms/
+permalink: /example_algorithms/
 ---
 ## Guidelines and examples for creating algorithm\(s\) for the new Knowledge Object
 
