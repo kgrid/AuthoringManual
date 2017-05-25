@@ -38,11 +38,11 @@
 body {
 	color:#555555;
 	background: #fff;
-	font-size: 14px;
+	font-size: 13px;
 	line-height: 1.6em;
 	font-weight: 400;
 	text-shadow: none;
-	letter-spacing: 0.04em;
+	letter-spacing: 0.02em;
 	overflow-x: hidden;
 }
 
