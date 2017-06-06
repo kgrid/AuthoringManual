@@ -1,4 +1,4 @@
-# Introduction
+﻿# Introduction
 
 As part of the larger Knowledge Grid program for knowledge organization, management, and dissemination, an application, "ObjectTeller", is a novel digital library system, part of a larger knowledge-delivery mechanism, that aims towards supporting knowledge delivery throughout a Learning Health System.
 
@@ -8,7 +8,7 @@ This Knowledge Objects Authoring & Managing Manual provides users with a set of 
 
 In the [Getting Started](http://kgrid.org/AuthoringManual/getting-started) section, we will walk through a basic example of creating a knowledge object. All pages can be found [here](http://kgrid.org/AuthoringManual/summary).
 
-For information on how to execute knowledge objects on the execution stack, see the [Execution Manual](http://kgrid.org/ExecutionManual/).
+For information on how to execute knowledge objects on the activator, see the [Authoring Manual](http://kgrid.org/AuthoringManual/).
 
 This documentation is being maintained on GitBook. The GitBook documentation version can be accessed at: [https://www.gitbook.com/book/kgrid/authoring-ii/details](https://www.gitbook.com/book/kgrid/authoring-ii/details).
 

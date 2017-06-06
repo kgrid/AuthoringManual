@@ -20,6 +20,38 @@ We advise including a README file with your knowledge objects for others to refe
 * Related objects
 * Literature citations and access information \(if applicable\)
 
+#### README.md file template.
+
+```
+# Name of Object
+Created date
+
+### Objective
+  - What does it do
+
+### Description
+   - Background information
+   - Inputs/Outputs
+   - How it works
+   - Calculations/equations
+
+### Running
+  - Example call function (with inputs and correct outputs)
+
+
+### Getting started
+  - How to run for beginners
+
+
+### Related Objects/Future Development
+  - Include information regarding connections, or potential connections, with other objects.
+
+
+### Literature
+  - Citations
+  - Access information
+```
+
 #### Example README.md file.
 
 ```
@@ -53,36 +85,4 @@ This knowledge object can be utilized with other knowledge objects where drug ID
 
 ### Literature
 There is no literature reference for this knowledge object.
-```
-
-#### README.md file template.
-
-```
-# Name of Object
-Created date
-
-### Objective
-  - What does it do
-
-### Description
-   - Background information
-   - Inputs/Outputs
-   - How it works
-   - Calculations/equations
-
-### Running
-  - Example call function (with inputs and correct outputs)
-
-
-### Getting started
-  - How to run for beginners
-
-
-### Related Objects/Future Development
-  - Include information regarding connections, or potential connections, with other objects.
-
-
-### Literature
-  - Citations
-  - Access information
 ```
