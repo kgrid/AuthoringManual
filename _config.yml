@@ -1,8 +1,9 @@
 title: KGrid Authoring Manual
 author: KGrid Development Team
 email: dlhs.knowledge.grid@umich.edu
+multipage: true
 description: > # this means to ignore newlines until "baseurl:"
-  Knowledge Grid is powered by Fedora 4 and supported by University of Michigan Medical School
+	This Knowledge Objects Authoring & Managing Manual provides users with a set of basic instructions and guidelines, for creating Knowledge Objects.
 
 #twitter_username: jekyllrb
 #github_username:  kgrid-um-team
@@ -14,20 +15,18 @@ minima:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-header_pages:
-  - authoring-KO.md
-  - getting-started.md
-  - checklist.md
-  - example_algorithms.md
-  - test_functions.md
-  - inputoutput_rdf.md
-  - readme_files.md
-  - interacting-knowledge-objects.md
-  - managing-knowledge-objects.md
-  - creating_knowledge_objects.md
-  - editing_knowledge_objects.md
-  - additional-resources.md
+# header_pages:
+#   - getting_started.md
+#   - activator_checklist.md
+#   - test_functions.md
+#   - commands.md
+#   - how_execution_stack_works.md
+#   - troubleshooting.md
+#   - additional_resources.md
 
 
 #theme: jekyll-theme-cayman
 theme: minima
+exclude:
+  - Gemfile
+  - Gemfile.lock
