@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Additional Resources
+navtitle: Additional Resources
 permalink: /additional_resources/
 ---
 # Additional Resources II

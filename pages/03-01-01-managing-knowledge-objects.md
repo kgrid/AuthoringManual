@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Managing Knowledge Objects
+navtitle: Managing Knowledge Objects
 permalink: /managing-knowledge-objects/
 ---
 # Managing Knowledge Objects

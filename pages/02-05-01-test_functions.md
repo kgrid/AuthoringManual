@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Test Functions
+navtitle: Test Functions
 level: 1
 permalink: /test_functions/
 ---

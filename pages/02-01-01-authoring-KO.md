@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Authoring Knowledge Objects
+navtitle: Authoring Knowledge Objects
 permalink: /authoring-KO/
 ---
 # Authoring Knowledge Objects

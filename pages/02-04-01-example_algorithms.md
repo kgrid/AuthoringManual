@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Creating Algorithm
+navtitle: Creating Algorithm
 level: 1
 permalink: /example_algorithms/
 ---

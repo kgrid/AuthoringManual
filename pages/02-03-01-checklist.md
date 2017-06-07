@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Authoring Checklist
+navtitle: Authoring Checklist
 level: 1
 permalink: /checklist/
 ---

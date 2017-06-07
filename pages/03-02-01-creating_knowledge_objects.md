@@ -1,9 +1,10 @@
 ﻿---
 layout: page
-title: Creating Knowledge Objects
+navtitle: Creating Knowledge Objects
 level: 1
 permalink: /creating_knowledge_objects/
 ---
+
 ## Creating New Knowledge Object
 
 Prior to creating a new KO, payload, input rdf and output RDF should be completed. Let's walk through the basic steps of creating a KO below.

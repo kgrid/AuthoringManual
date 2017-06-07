@@ -1,6 +1,6 @@
 ---
 layout: page
-title: README Files
+navtitle: README Files
 level: 1
 permalink: /readme_files/
 ---

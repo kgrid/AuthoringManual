@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Get Started
+navtitle: Get Started
 level: 1
 permalink: /getting-started/
 ---

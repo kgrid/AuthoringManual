@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Input/Output RDF
+navtitle: Input/Output RDF
 level: 1
 permalink: /inputoutput_rdf/
 ---
