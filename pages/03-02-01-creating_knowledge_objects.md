@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 navtitle: Creating Knowledge Objects
 level: 1
